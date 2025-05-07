@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
-* Suno (2025). *Introducing v4.5. Disponible en: https://suno.com/blog/introducing-v4-5 [Consultado el 7 de mayo de 2025]
+* Suno (2025). *Introducing v4.5. Disponible en: https://suno.com/blog/introducing-v4-5* [Consultado el 7 de mayo de 2025]
 
 ----
 
