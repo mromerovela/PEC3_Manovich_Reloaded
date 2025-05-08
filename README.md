@@ -12,7 +12,7 @@ Fecha: 16/05/2025
 ## Breve introducción
 
 
-Los nuevos medios, en la actualidad, forman parte del día a día. El cambio inicia con la globalización del ordenador, momento en el que se empezaron a diseñar, mejorar y comercializar nuevos programas y aplicaciones. Lev Manovich analiza y describe detenidamente en varias de sus publicaciones cómo ha sido ese proceso de transformación cultural, introduciendo conceptos como la remediación o la transcodificación.
+En la actualidad, los nuevos medios se han asentado y han modificado la sociedad. Este cambio tan significativo comienza a tomar fuerza con la llegada del ordenador doméstico. En ese momento, se empezaron a diseñar, mejorar y comercializar nuevos programas y aplicaciones. Lev Manovich analiza y describe detenidamente en varias de sus publicaciones cómo ha sido ese proceso de transformación cultural, introduciendo conceptos como la remediación o la transcodificación.
 
 Otros conceptos clave que permiten entender este proceso vienen desarrollados de forma más extensa en su libro *El software toma el mando (2013)*: la multimedia y la hibridación. A pesar de mantener algunos elementos en común, Manovich incide particularmente en su diferenciación. Con el fin de ubicar a algunos posibles lectores que se estén introduciendo en el tema, les propongo el siguiente ejemplo a modo de explicación:
 - En la primera figura, se perciben tres formas básicas: un cuadrado, un triángulo y un círculo.
@@ -29,11 +29,11 @@ Con estos dos conceptos claramente diferenciados, a continuación os presento el
 
 ## SunoAI
 
-Para empezar, añadamos un poco de contexto. Suno es un sistema de inteligencia artificial que permite crear canciones a partir de un listado de tipos de *prompts*:  temática, letra, estilo musical, estructura… Tras unos breves instantes, genera una pieza musical completamente original basada en esas entradas. Tras su salida en 2023, la compañía ha actualizado periódicamente su producto incorporando nuevas versiones con mejoras y nuevas herramientas. La versión 4.5, lanzada el 1 de mayo de 2025, trae como novedad la posibilidad de mezclar distintos géneros en una misma canción (Suno, 2025). 
+Para empezar, añadamos un poco de contexto. Suno es un sistema de inteligencia artificial que permite crear canciones a partir de un listado de tipos de *prompts*:  temática, letra, estilo musical, estructura… Tras unos breves instantes, genera una pieza musical completamente original basada en esas entradas. Tras su salida en 2023, la compañía ha actualizado periódicamente su producto incorporando nuevas versiones con mejoras y novedades. La versión 4.5, lanzada el 1 de mayo de 2025, trae como novedad la posibilidad de mezclar distintos géneros en una misma canción (Suno, 2025). 
 
-Previo a la aparición y popularización de Suno, no existían grandes programas o aplicaciones que ofrecieran un servicio similar. Las estaciones de audio digital (DAWs) permiten grabar y editar audio, ya sea a través de instrumentos virtuales o de grabaciones reales. Los vocoders alteran y modulan la voz humana para que reproduzca una determinada melodía, como lo hace el Autotune. Las webs como Musicmap recogen todos los géneros musicales y sus características. Estas y otras muchas plataformas que trabajan entorno al audio y la música sirven de fuente para Suno, lo que refuerza las palabras sobre la evolución de los medios de Manovich:
+Previo a la aparición y popularización de Suno, no existían grandes programas o aplicaciones que ofrecieran un servicio similar. Las estaciones de audio digital (DAWs) permiten grabar y editar audio, ya sea a través de instrumentos virtuales o de grabaciones reales. Los *vocoders* alteran y modulan la voz humana para que reproduzca una determinada melodía, como lo hace el Autotune. Las webs como Musicmap recogen todos los géneros musicales y sus características. Estas y otras muchas plataformas que trabajan entorno al audio y la música sirven de fuente para Suno, lo que refuerza las palabras sobre la evolución de los medios de Manovich:
 
-Una vez simuladas en un ordenador, las técnicas de distintos medios que hasta entonces habían sido incompatibles empiezan a combinarse en infinitas y novedosas combinaciones, lo que da pie al nacimiento de nuevos medios híbridos (Manovich, 2013)
+> Una vez simuladas en un ordenador, las técnicas de distintos medios que hasta entonces habían sido incompatibles empiezan a combinarse en infinitas y novedosas combinaciones, lo que da pie al nacimiento de nuevos medios híbridos (Manovich, 2013)
 
 Una vez identificado como un caso de hibridación válido, es importante clasificarlo atendiendo a un tipología concreta. En *El software toma el mando (2013)* se distinguen distintas estrategias para la hibridación de un medio.  A pesar de que en el texto original no se comenten de forma específica los casos sobre inteligencia artificial, personalmente considero que Suno podría catalogarse en dos tipos principales.
 
@@ -50,14 +50,24 @@ Si algún lector no termina de ver claro el caso de hibridación, le recomiendo 
 
 ## Blender
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Blender es un programa gratuito de código abierto dedicado al modelado y animación 3D. Creada en 1995 y publicada al mundo en 1998, la aplicación tuvo una buena acogida por el público general gracias a su naturaleza libre y versatilidad (Blender Foundation, 2025). A pesar de su gran potencial, Blender no consiguió establecerse en la industria cinematográfica, puesto que no contaba con el respaldo de grandes estudios. Sin embargo, la situación comenzó a cambiar cuando en 2025 la película *Flow*, un proyecto realizado íntegramente en Blender, ganó el Óscar a mejor película de animación.
+
+Los trabajos de Manovich sobre la evolución de los medios digitales proporcionan nuevamente una visión fidedigna y clara de los procesos por los que han pasado los programas de 3D hasta la revolución que han supuesto en la creación de contenido. Manovich señala en *El software toma el mando (2013)* que, en sus inicios, fueron concebidos como una representación de un medio tradicional, físico. Por lo tanto, los primeros programas de 3D se apropiaron de elementos característicos como la terminología específica de los medios en los que se basaban. Por ejemplo, palabras como esculpir, material o bisel provienen de la escultura. Con el tiempo, a medida que los programas se desarrollaron, la terminología también lo hizo como ocurre con cualquier otro caso de remediación. En esos momentos surgieron palabras más específicas (hoy en día mucho más características) como lo son rigging, mapping, shading…
+
+Tras esa primera fase de representación, el software comienza a combinar técnicas y herramientas para ofrecer nuevas posibilidades. El caso de *Flow* demuestra todas aquellas opciones que trae consigo Blender de forma nativa (y otras que se pueden conseguir mediante plugins o addons). En otras palabras, una película al completo se ha podido montar utilizando de forma prácticamente íntegra un solo programa, y ese programa no es ni siquiera un editor de vídeo (Ríos, 2025). Blender permite modelar, texturizar, mapear, animar, iluminar, simular, renderizar, editar vídeo… Es como si de repente una escultura de arcilla puede cambiar de forma, moverse e incluso convertirse en acero.
+
+De esta manera Blender no se limita a ser una herramienta de modelado o animación, sino que se convierte en un punto de convergencia entre diversas técnicas y medios. Además, la existencia de este encuentro permite al usuario utilizar el programa para crear contenidos híbridos. Algunos de los mejores ejemplos vienen de la mano del noruego Asbjørn Lote, un artista 3D que utiliza Blender. Polyfjord, como se apoda en redes sociales, ha publicado varios vídeos relacionados con la visualización de audio. Recomiendo encarecidamente su experimento con la [música de Tetris](https://www.youtube.com/watch?v=It9DOTaFA7Q&ab_channel=Polyfjord) y otro [vídeo de lyrics](https://www.youtube.com/shorts/NvRIje-xmuQ).
+
+Por todos estos motivos, Blender se clasificaría dentro de la tipología de Manovich como un caso de hibridación de medios. Gracias a su versatilidad y cantidad de herramientas, Blender permite la combinación de diversas técnicas anteriormente desconectadas. Sin ir más lejos, en el vídeo de Tetris de Lote, varios medios y técnicas se mezclan para crear una composición visual: música, animación, programación, texturizado… Todos estos elementos dan forma y amplían la narrativa.
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
+* Blender Foundation. (2025). Historia de Blender. Blender Manual 2.82. Recuperado el 8 de mayo de 2025, de https://docs.blender.org/manual/es/2.82/getting_started/about/history.html
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+* Ríos Arbeláez, J. J. (2025, 26 de febrero). Así animaron Flow, la película nominada al Oscar que utilizó un software gratuito. Infobae. https://www.infobae.com/tecno/2025/02/26/asi-animaron-flow-la-pelicula-nominada-al-oscar-que-utilizo-un-software-gratuito/
 * Suno (2025). *Introducing v4.5. Disponible en: https://suno.com/blog/introducing-v4-5* [Consultado el 7 de mayo de 2025]
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
