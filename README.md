@@ -12,14 +12,14 @@ Fecha: 16/05/2025
 
 En la actualidad, los nuevos medios se han asentado y han modificado la sociedad. Este cambio tan significativo comienza a tomar fuerza con la llegada del ordenador doméstico. En ese momento, se empezaron a diseñar, mejorar y comercializar nuevos programas y aplicaciones. Lev Manovich analiza y describe detenidamente en varias de sus publicaciones cómo ha sido ese proceso de transformación cultural, introduciendo conceptos como la remediación o la transcodificación.
 
-Otros conceptos clave que permiten entender este proceso vienen desarrollados de forma más extensa en su libro *El software toma el mando (2013)*: **la multimedia y la hibridación**. A pesar de mantener algunos elementos en común, Manovich incide particularmente en su **diferenciación**. Con el fin de ubicar a algunos posibles lectores que se estén introduciendo en el tema, les propongo el siguiente ejemplo a modo de explicación:
+Otros conceptos clave que permiten entender este proceso, como **la multimedia y la hibridación**, vienen desarrollados de forma más extensa en su libro *El software toma el mando (2013)*. A pesar de mantener algunos elementos en común, Manovich incide particularmente en su **diferenciación**. Con el fin de ubicar a algunos posibles lectores que se estén introduciendo en el tema, les propongo el siguiente ejemplo a modo de explicación:
 - En la primera figura, se perciben tres formas básicas: un cuadrado, un triángulo y un círculo.
 - En el segundo caso, las mismas figuras forman una casa. 
 
 ![La primera figura muestra un cuadrado, un triángulo y un círculo. La segunda figura es una representación de una casa con las mismas formas.](https://github.com/mromerovela/PEC3_Manovich_Reloaded/blob/main/Figuras%20Casa.jpg?raw=true "Figuras Multimedia e Hibridación") 
 Al igual que ocurre en la primera figura, la **multimedia es una agrupación de medios que se perciben, comportan e interactúan de forma independiente**. El mero hecho de coexistir en un mismo espacio (en el ejemplo sería el marco), no los convierte en una unidad.
 
-Sin embargo, en la segunda figura, ya no se perciben tres figuras independientes. Por el contrario, las tres conforman un mismo elemento lógico y reconocible (se experimenta en un conjunto). Además, las formas se encuentran tan interrelacionadas que si se retira una pieza, el significado de la figura se vería alterado drásticamente, ya que dejaría de ser una casa. Lo mismo ocurre con la **hibridación**, situaciones en las que se **unen las interfaces, técnicas y tradiciones de medios para ofrecer nuevas experiencias** (Manovich, 2013).
+Sin embargo, en la segunda figura, ya no se perciben tres figuras independientes. Por el contrario, las tres conforman un mismo elemento lógico y reconocible (se experimenta en un conjunto). Además, las formas se encuentran tan interrelacionadas que si se retira una pieza, el significado de la figura se vería alterado drásticamente, ya que dejaría de ser una casa. Lo mismo ocurre con la **hibridación**, casos en los que se **unen las interfaces, técnicas y tradiciones de medios para ofrecer nuevas experiencias** (Manovich, 2013).
 
 Con estos dos conceptos claramente diferenciados, a continuación os presento el caso de SunoAI y Blender. En las siguientes líneas indagaremos en por qué Manovich declararía abiertamente que ambos son grandes ejemplos de hibridación. 
 
@@ -27,7 +27,7 @@ Con estos dos conceptos claramente diferenciados, a continuación os presento el
 
 ## SunoAI
 
-Para empezar, añadamos un poco de contexto. Suno es un **sistema de inteligencia artificial** que permite **crear canciones** a partir de un listado de tipos de *prompts*:  temática, letra, estilo musical, estructura… Tras unos breves instantes, genera una pieza musical completamente original basada en esas entradas. Tras su salida en 2023, la compañía ha actualizado periódicamente su producto incorporando nuevas versiones con mejoras y novedades. La versión 4.5, lanzada el 1 de mayo de 2025, trae como novedad la posibilidad de mezclar distintos géneros en una misma canción (Suno, 2025).
+Suno es un **sistema de inteligencia artificial** que permite **crear canciones** a partir de un listado de tipos de *prompts*:  temática, letra, estilo musical, estructura… Tras unos breves instantes, genera una pieza musical completamente original basada en esas entradas. Tras su salida en 2023, la compañía ha actualizado periódicamente su producto incorporando nuevas versiones con mejoras y novedades. La versión 4.5 lanzada el 1 de mayo de 2025 (la más reciente atendiendo a la fecha de esta publicación), trae como novedad la posibilidad de mezclar distintos géneros en una misma canción (Suno, 2025).
 
 ![Logotipo de SunoAI](https://industriamusical.com/wp-content/uploads/2024/06/Suno.png "Logotipo de SunoAI") 
 
@@ -36,12 +36,12 @@ Previamente a la aparición y popularización de Suno, **no existían grandes pr
 
 > Una vez simuladas en un ordenador, las técnicas de distintos medios que hasta entonces habían sido incompatibles empiezan a combinarse en infinitas y novedosas combinaciones, lo que da pie al nacimiento de nuevos medios híbridos (Manovich, 2013)
 
-Otro factor clave que distingue a Suno es la forma que tiene el usuario para definir la canción. El programa no construye la canción haciendo uso de elementos específicos del sector musical como partituras, claves, figuras… **Suno compone mediante** ***promts*** que se alejan completamente de este sistema tradicional ( aunque también admiten una terminología musical más precisa). Es decir, la melodía no se define a partir de notas musicales distribuidas por un pentagrama, sino que lo hace con entradas más **subjetivas, inespecíficas o incluso informales**: alegre, heavy metal, voz femenina, lenta…
+Otro factor clave que distingue a Suno es la forma que tiene el usuario para definir la canción. El programa no construye la canción haciendo uso de elementos específicos del sector musical como partituras, claves, figuras… **Suno compone mediante** ***promts*** que se alejan completamente de este sistema tradicional (aunque también admiten una terminología musical más precisa). Es decir, la melodía no se define a partir de notas musicales distribuidas por un pentagrama, sino que lo hace con entradas más **subjetivas, inespecíficas o incluso informales**: alegre, heavy metal, voz femenina, lenta, energética…
 
 ![Interfaz de SunoAI](https://www.zdnet.com/a/img/resize/be8ac0f37c1e35d5fadc4cbc94a2a987404f39d1/2024/12/24/fe913fc8-3150-473f-8ffe-66908bc77c63/figure-7-how-to-generate-your-own-music-with-the-ai-powered-suno.jpg?auto=webp&width=1280 "Interfaz de SunoAI") 
 
 ### Tipo de hibridación ###
-Una vez identificado como un caso de hibridación válido, es importante clasificarlo atendiendo a un tipología concreta. En El software toma el mando (2013) se distinguen distintas estrategias para la hibridación de un medio. Suno forma un **resultado único mediante la fusión de medios diferentes**: música, letra, imágenes e incluso animación 2D de la letra al descargar el vídeo. Por ejemplo, cuando se introduce un tema o una letra, Suno crea una imagen relacionada a modo de portada para la canción.
+Una vez identificado como un caso de hibridación válido, es importante clasificarlo atendiendo a un tipología concreta. En *El software toma el mando (2013)* se distinguen distintas estrategias para la hibridación de un medio. Suno forma un **resultado único mediante la fusión de medios diferentes**: música, letra, imágenes e incluso animación 2D de la letra al descargar el vídeo. Por ejemplo, cuando se introduce un tema o una letra, Suno crea una imagen relacionada a modo de portada para la canción.
 
 Adjunto un par de ejemplos aquí: [La balada de Manovich](https://suno.com/s/1g3XOSdBznyDn7Aj) y [Manovich el Rockero](https://suno.com/s/HJC7RjzBSxjmLMHO).
 
@@ -65,7 +65,9 @@ Por todos estos motivos, Blender se clasificaría dentro de la tipología de Man
 
 ## Una breve conclusión
 
-Suno y Blender son ejemplos de hibridación de medios según los trabajos de Manovich, debido a que combinan técnicas procedentes de diversos medios para generar nuevos resultados. Por lo tanto, ambos casos superan las dos primeras fases de la evolución de los medios (simula, combinar y fusionar), lo que demuestra lo avanzados que suponen los nuevos medios y abre la puerta a una siguiente fase… Pero, ¿cuál es esta siguiente fase?
+Como a lo largo del ensayo se ha podido entrever, Manovich define fases que atraviesan los medios en su constante proceso de evolución. Después de la simulación y la combinación independiente de distintos medios se constituye una fase de fusión. Blender y Suno son ejemplos de hibridación, debido a que combinan técnicas procedentes de diversos medios para generar nuevos resultados.
+
+Al igual que ambos casos, a diario se crean nuevos programas que también sirven a modo de ejemplo de hibridación, lo que demuestra lo avanzados que suponen los nuevos medios. Esto podría representar la apertura de una puerta a una siguiente fase de evolución… Pero, ¿cuál es esta siguiente fase?
 
 ### Referencias y Bibliografía
 
